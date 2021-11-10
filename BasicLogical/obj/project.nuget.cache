@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "lr8AKiIMBByJgDORrIZlRnje8qdEq54Pl2MWHYY683CdWWJyT+IuV7ovNnRqQ9nZ143B6LbSHtJKdFScrO+W0Q==",
+  "dgSpecHash": "0eGPH/fRCfBKB33ox40i8CvO8VqfOS7wbo2KsSDDNXedZtGf7iTTC1itb5aN+rKiEPMYyNWFFR7xLytX87VOrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shivam Shekhar\\source\\BasicLogical DAY6\\BasicLogical\\BasicLogical.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
   ],
   "logs": []
 }
