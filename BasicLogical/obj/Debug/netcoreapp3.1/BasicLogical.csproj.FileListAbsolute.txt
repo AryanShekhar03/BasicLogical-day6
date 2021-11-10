@@ -1,0 +1,17 @@
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.exe
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.deps.json
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.dll
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\BasicLogical.pdb
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.dll
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.pdb
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.genruntimeconfig.cache
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shivam Shekhar\source\repos\BasicLogical\obj\Debug\netcoreapp3.1\BasicLogical.csproj.CopyComplete

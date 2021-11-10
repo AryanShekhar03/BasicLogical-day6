@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lr8AKiIMBByJgDORrIZlRnje8qdEq54Pl2MWHYY683CdWWJyT+IuV7ovNnRqQ9nZ143B6LbSHtJKdFScrO+W0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shivam Shekhar\\source\\BasicLogical DAY6\\BasicLogical\\BasicLogical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Shivam Shekhar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
